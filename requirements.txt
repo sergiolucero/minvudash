@@ -2,6 +2,9 @@ certifi==2018.4.16
 chardet==3.0.4
 click==6.7
 dash==0.21.0
+dash-core-components==0.13.0rc5
+dash-html-components==0.8.0
+dash-renderer==0.11.1
 decorator==4.3.0
 Flask==1.0
 Flask-Compress==1.4.0
